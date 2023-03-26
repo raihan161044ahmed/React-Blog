@@ -6,7 +6,7 @@ export default function Header() {
         <div className="headerTitle">
             <span className="headerTitleLg">Blog</span>
         </div>
-        <img src="https://bobbyhadz.com/images/blog/react-prevent-multiple-button-clicks/thumbnail.webp" alt="" className="headerImg" />
+        <img src="https://picsum.photos/2000" alt="" className="headerImg" />
     </div>
   )
 }

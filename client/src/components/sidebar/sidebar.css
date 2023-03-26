@@ -20,9 +20,9 @@
     border-top: 1px solid #a7a4a4;
     border-bottom: 1px solid #a7a4a4;
     font-family: 'Lora', serif;
-    font-size: 12px;
+    font-size: 18px;
     color: #222;
-    font-weight: 500;
+    font-weight: bold;
     line-height: 20px;
     text-align: center;
 }
@@ -32,6 +32,7 @@
 }
 .sidebarItem>p{
     padding: 30px;
+    font-family:'Segoe UI';
 }
 .sidebarList{
     list-style: none;
@@ -42,4 +43,5 @@
     width: 50%;
     margin-top: 15px;
     cursor: pointer;
+    font-family:'Segoe UI';
 }

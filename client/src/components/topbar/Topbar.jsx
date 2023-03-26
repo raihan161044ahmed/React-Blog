@@ -18,7 +18,7 @@ export default function Topbar() {
             </div>
         </div>
         <div className="topRight">
-            <img src="https://bobbyhadz.com/images/blog/react-prevent-multiple-button-clicks/thumbnail.webp" alt="" className="topImg" />
+            <img src="https://picsum.photos/800" alt="" className="topImg" />
             <i className="topSearchIcon fa-solid fa-magnifying-glass"></i>
         </div>
     </div>
